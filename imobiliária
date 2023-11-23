@@ -1,0 +1,41 @@
+tópico - Aluguel de imóveis (imobiliária)
+
+
+
+class pessoa
+
+-nome
+-CPF
+-quantidade
+
+- function calcular () {
+
+usada para calcular a quantidade por atributo }
+
+(NT: classe pai[superclasse])
+
+
+class comprador
+
+
+-quantidadede compradores por imovel
+
+
+(NT: classe filha [subclasse] da classe pessoa, herda a function calcular)
+
+
+class proprietario
+
+
+-quantidade de proprietarios
+-imoveis pertencentes
+
+
+(NT: class filha [subclasse], herda a function calcular)
+
+
+
+
+
+
+

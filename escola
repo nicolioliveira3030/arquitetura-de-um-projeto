@@ -1,0 +1,41 @@
+tópico - escola
+
+class pessoa
+
+-CPF
+-nome
+-telefone
+
+function quantidade(){
+    calcula a quantidade de pessoas por class
+}
+
+function 
+
+(NT: superclasse, classe generica que se aplica as outras classes )
+
+class aluno
+
+-matricula
+-série
+-notas
+
+function media(){
+    calcula a media das notas
+}
+
+(NT: subclasse, classe especifica, herda os atributos e funções da superclasse, )
+
+class professor
+
+-materia
+-salario
+
+function quantidade (dividido por materia) {
+
+    calcula a quantidade de professores por materia
+}
+
+(NT: subclasse, herda os atributos e as funções, usa a função quantidade com parametros diferentes)
+
+
